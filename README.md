@@ -2,7 +2,7 @@
 *Lydro is an interactive soundscape experience utilizing the 3dof head tracking present in modern headphone devices.*
 
 <div align="left">
-    <img src="readme-media/Lydro-gif-v4.gif" width="80%" alt="Lydro gif"/>
+    <img src="/readme-media/Lydro-gif-v4.gif" width="80%" alt="Lydro gif"/>
 </div>
 
 ## Overview and Concept
