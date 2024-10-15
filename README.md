@@ -22,7 +22,7 @@
 
 ## Overview and Concept
 
-
+test
 *As a part of a large welfare technological research project on Aarhus University and in collaboration with the VR developer company AATE VR, this interactive sound experience came into being. The main focus was to research how interactive and spatial audio can be used in emphasising the experience and the affective qualities which audio provides.*
 
 ## How It Works
