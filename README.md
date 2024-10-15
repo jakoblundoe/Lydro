@@ -5,6 +5,13 @@
     <img src="img/lydrogifv4.gif" width="92%" alt="Capturing Spaces Overview"/>
 </div>
 
+<br>
+
+## Table of Contents
+1. [Overview and Concept](#overview-and-concept)
+2. [How It Works](#how-it-works)
+3. [Software and Dependencies](#software-and-dependencies)
+
 ## Overview and Concept
 
 **Lydro is an XR-based spatialized sound experience.**
