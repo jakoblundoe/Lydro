@@ -12,6 +12,8 @@
 2. [How It Works](#how-it-works)
 3. [Software and Dependencies](#software-and-dependencies)
 
+<br>
+
 ## Overview and Concept
 
 **Lydro is an XR-based spatialized sound experience.**
