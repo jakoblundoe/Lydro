@@ -2,7 +2,7 @@
 *Lydro is an interactive soundscape experience utilizing the 3dof head tracking available in modern headphone devices.*
 
 <div align="center">
-    <img src="img/lydrogifv4.gif" width="92%" alt="Capturing Spaces Overview"/>
+    <img src="img/lydrogifv4.gif" width="92%" alt="Lydro gif"/>
 </div>
 
 <br>
@@ -25,8 +25,8 @@ The design concept aimed to create an engaging and interactive XR sound experien
 Utilizing the multi-sensory, enhanced experience provided by these new technologies is still a relatively new field of study. An experience in this XR medium distinguishes itself from static audio due to the kinaesthetic and auditory connection which was the main point of interest in the design of the experience.
 
 <div align="center">
-    <img src="img/lydro-img-2.jpeg" width="48%" alt="Capturing Spaces Overview"/>
-    <img src="img/lydro-img-1.jpeg" width="48%" alt="Capturing Spaces Overview"/>
+    <img src="img/lydro-img-2.jpeg" width="48%" alt="Lydro image"/>
+    <img src="img/lydro-img-1.jpeg" width="48%" alt="Lydro image"/>
 </div>
 
 <br>
@@ -47,6 +47,6 @@ In the UI, you can:
 ## Software and Dependencies
 - **Unity** - Game engine.
 - **Xcode** - For building to devices and notarizing the software.
-- [**HeadphoneMotion unity plugin**](https://github.com/anastasiadevana/HeadphoneMotion.git) - Exposes Apple’s Headphone Motion API (CMHeadphoneManager) in Unity.
+- [**HeadphoneMotion unity plugin**](https://github.com/anastasiadevana/HeadphoneMotion.git) - Exposes Apple's Headphone Motion API (CMHeadphoneManager) in Unity.
 - **FMOD** - Audio middleware.
 - **Reaper** - Digital audio workstation.
