@@ -1,5 +1,5 @@
 # Lydro
-*Lydro is an interactive soundscape experience utilizing the 3dof head tracking present in modern headphone devices.*
+*Lydro is an interactive soundscape experience utilizing the 3dof head tracking available in modern headphone devices.*
 
 <div align="center">
     <img src="img/lydrogifv4.gif" width="92%" alt="Capturing Spaces Overview"/>
