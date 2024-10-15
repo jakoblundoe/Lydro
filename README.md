@@ -18,7 +18,7 @@
 
 **Lydro is an XR-based spatialized sound experience.**
 
-*As part of a [large welfare technological research project](https://danishsoundcluster.dk/praksisnaere-loesningsmodeller-til-positiv-og-engagerede-brug-af-musik-og-lydinterventioner-paa-plejehjem/) on Aarhus University and in collaboration with the VR developer company [AATE VR](https://aatevr.com/), this interactive sound experience was created. The main focus was to research how interactive and spatial audio can emphasize the experience and the affective qualities that sound can provide.*
+*As part of a large welfare technological [research project](https://danishsoundcluster.dk/praksisnaere-loesningsmodeller-til-positiv-og-engagerede-brug-af-musik-og-lydinterventioner-paa-plejehjem/) on Aarhus University and in collaboration with the VR developer company [AATE VR](https://aatevr.com/), this interactive sound experience was created. The main focus was to research how interactive and spatial audio can emphasize the experience and the affective qualities that sound can provide.*
 
 The design concept aimed to create an engaging and interactive XR sound experience. By incorporating head movement as an input, the listener is encouraged to actively and consciously engage with the sound, enhancing the sense of presence and thereby amplifying the affective qualities of the audio.
 
