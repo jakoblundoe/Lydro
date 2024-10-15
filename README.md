@@ -4,6 +4,7 @@
 <div align="center">
     <img src="readme-media/Lydro-gif-v4.gif" width="80%" alt="Lydro gif"/>
 </div>
+<br>
 
 ![Lydro gif](readme-media/Lydro-gif-v4.gif)
 
