@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <img src="img/lydro-gif-v2.gif" width="90%" alt="Lydro gif"/>
+    <img src="/img/Lydro-gif-v2.gif" width="90%" alt="Lydro gif"/>
 </div>
 
 <div align="center">
